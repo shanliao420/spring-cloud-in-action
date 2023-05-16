@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceUserService/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMoive/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceProviderUser/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMovie/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceDiscoveryEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceProviderUserEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceDiscoveryEurekaDouble/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceDiscoveryEurekaAuthenticating/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceProviderUserEurekaMetadata/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaMetadata/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbon/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonRandom/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaFeign/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMoive/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMoive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaFeign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaFeign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaMetadata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaMetadata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonRandom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonRandom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceDiscoveryEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceDiscoveryEurekaAuthenticating/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceDiscoveryEurekaAuthenticating/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceDiscoveryEurekaDouble/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceDiscoveryEurekaDouble/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceProviderUser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceProviderUser/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceProviderUserEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceProviderUserEureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceProviderUserEurekaMetadata/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceProviderUserEurekaMetadata/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

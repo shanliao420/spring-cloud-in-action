@@ -1,0 +1,26 @@
+server:
+  port: 8001
+
+user:
+  userServer:
+    url: http://MICROSERVICE-PROVIDER-USER/user/
+
+spring:
+  application:
+    name: microservice-consumer-movie
+  main:
+    allow-bean-definition-overriding: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+    jmx:
+      exposure:
+        include: '*'

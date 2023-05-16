@@ -1,0 +1,42 @@
+server:
+  port: 8000
+spring:
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  sql:
+    init:
+      schema-locations: classpath:schema.sql
+      data-locations: classpath:data.sql
+      platform: h2
+  application:
+    name: microservice-provider-user
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8100/eureka/
+#      defaultZone: http://shanliao:abc0420@localhost:8100/eureka/
+#      defaultZone: http://eureka1:8101/eureka/,http://eureka2:8102/eureka/
+
+  instance:
+    prefer-ip-address: true
+#    prefer-ip-address: 表示注册自己的ip到EurekaService,false表示注册hostname到EurekaService
+
+logging:
+  level:
+    root: info
+    org.hibernate: info
+    org.hibernate.type.descriptor.sql.BasicBinder: trace
+    org.hibernate.type.descriptor.sql.BasicExtractor: trace
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+    jmx:
+      exposure:
+        include: '*'
+
+

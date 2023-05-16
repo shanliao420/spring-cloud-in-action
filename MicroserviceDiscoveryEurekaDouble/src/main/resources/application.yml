@@ -1,0 +1,38 @@
+spring:
+  application:
+    name: microservice-discovery-eureka-double
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+    jmx:
+      exposure:
+        include: '*'
+---
+spring:
+  config:
+    activate:
+      on-profile: eureka1
+server:
+  port: 8101
+eureka:
+  instance:
+    hostname: eureka1
+  client:
+    service-url:
+      defaultZone: http://eureka2:8102/eureka/
+---
+spring:
+  config:
+    activate:
+      on-profile: eureka2
+server:
+  port: 8102
+eureka:
+  instance:
+    hostname: eureka2
+  client:
+    service-url:
+      defaultZone: http://eureka1:8101/eureka/
+
