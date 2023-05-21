@@ -14,6 +14,7 @@
         <module name="SpringCloud" />
         <module name="MicroserviceConsumerMovieEurekaMetadata" />
         <module name="MicroserviceConsumerMovie" />
+        <module name="MicroserviceConsumerMovieEurekaRibbonHystrix" />
         <module name="MicroserviceConsumerMovieEurekaRibbon" />
         <module name="MicroserviceConsumerMovieEureka" />
         <module name="MicroserviceProviderUserEurekaMetadata" />
@@ -34,6 +35,7 @@
       <module name="MicroserviceConsumerMovieEurekaFeign" options="-parameters" />
       <module name="MicroserviceConsumerMovieEurekaMetadata" options="-parameters" />
       <module name="MicroserviceConsumerMovieEurekaRibbon" options="-parameters" />
+      <module name="MicroserviceConsumerMovieEurekaRibbonHystrix" options="-parameters" />
       <module name="MicroserviceConsumerMovieEurekaRibbonRandom" options="-parameters" />
       <module name="MicroserviceDiscoveryEureka" options="-parameters" />
       <module name="MicroserviceDiscoveryEurekaAuthenticating" options="-parameters" />

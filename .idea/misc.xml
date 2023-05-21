@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbon/pom.xml" />
         <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonRandom/pom.xml" />
         <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaFeign/pom.xml" />
+        <option value="$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonHystrix/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

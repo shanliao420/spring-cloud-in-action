@@ -12,6 +12,8 @@
     <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaMetadata/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonHystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonHystrix/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonRandom/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MicroserviceConsumerMovieEurekaRibbonRandom/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MicroserviceDiscoveryEureka/src/main/java" charset="UTF-8" />
